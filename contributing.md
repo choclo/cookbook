@@ -28,7 +28,6 @@ You might also find these links useful for markdown references:
 You can include files by putting `{% include_code the_file_name %}` on a line
 by itself. It will look like this:
 
-{% include_code recipes/example/example.txt %}
 
 # Embedding HTML
 
@@ -41,4 +40,3 @@ You can view any of the markdown files for this site to see how the article is
 done. As an example, check out [this example](recipes/example). Here's the code
 for that example:
 
-{% include_code recipes/example/index.md.txt %}
