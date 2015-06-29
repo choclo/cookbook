@@ -23,11 +23,6 @@ You might also find these links useful for markdown references:
 * [markdown syntax](http://daringfireball.net/projects/markdown/syntax/)
 * [github-flavored markdown](http://github.github.com/github-flavored-markdown/)
 
-# Including Files
-
-You can include files by putting `{% include_code the_file_name %}` on a line
-by itself. It will look like this:
-
 
 # Embedding HTML
 
